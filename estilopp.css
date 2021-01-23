@@ -1,0 +1,90 @@
+.cuadro{
+position: absolute;
+top: 2%;
+left: 6%;
+height: 630px;
+width: 450px;
+background-color: #DBA1FA;
+}
+
+.foto{
+position: absolute;
+background: url(foto1.png);
+top: 2%;
+left: 3%;
+height: 490px;
+width: 420px;
+}
+
+.nombre{
+position: absolute;
+background: url(nombre.png);
+top: 78%;
+left: 15%;
+height: 83px;
+width: 301px;
+}
+.nombre2{
+position: absolute;
+background: url(nombre2.png);
+top: 88%;
+left: 15%;
+height: 75px;
+width: 301px;
+}
+
+.titulo{
+position: absolute;
+background: url(titulo.png);
+top: 9%;
+left: 44%;
+height: 98px;
+width: 700px;
+}
+
+.texto{
+position: absolute;
+top: 25%;
+left: 44%;
+width: 700px;
+height: 400px;
+color: black;
+font: oblique bold 120% cursive;
+}
+
+.p1{
+position: absolute;
+top: 60%;
+left: 50%;
+height: 50px;
+width: 214px;
+}
+.p2{
+position: absolute;
+top: 60%;
+left: 72%;
+height: 50px;
+width: 214px;
+}
+.p3{
+position: absolute;
+top: 75%;
+left: 61%;
+height: 50px;
+width: 214px;
+}
+
+.horse{
+position: absolute;
+top: 73%;
+left: 48%;
+height: 138px;
+width: 120px;
+}
+.horse2{
+position: absolute;
+top: 73%;
+left: 81%;
+height: 138px;
+width: 120px;
+}
